@@ -2,6 +2,10 @@
 
 **Spin. Play. Connect.** A projector-friendly game wheel for the Illuminatix ice-breaking session.
 
+**Live site:** https://akrutigupta383.github.io/akruti-exe/
+
+To update the live site, run `npm run build:pages` and push the contents of `dist/` (plus an empty `.nojekyll` file) to the `gh-pages` branch.
+
 ## Run it
 
 Double-click `start-wheel.cmd`, or from this folder:
